@@ -108,6 +108,38 @@ export default function Publications() {
       link: "#",
       category: "PhD",
     },
+    {
+      title: "Optoelectronic Response of Nodal Line Semimetal PbTaSe₂",
+      authors: "Morgan G. Blevins, Vivian Santamaria-Garcia, Svetlana V. Boriskina",
+      year: 2024,
+      journal: "MRS Conference",
+      link: "#",
+      category: "PhD",
+    },    
+    {
+      title: "Nonreciprocal Hyperbolic and Surface Modes Enable Tunable Near‑Field Heat Transfer in Current‑Biased Dirac Semimetals",
+      authors: "Morgan Blevins, Simo Pajović, Svetlana V. Boriskina",
+      year: 2025,
+      journal: "Nano Letters",
+      link: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00655",
+      category: "PhD",
+    },    
+    {
+      title: "Nanophotonic Enhanced Nonlinear Photocurrents in Weyl Semimetal TaIrTe₄",
+      authors: "Morgan G. Blevins, Sachin Vaidya, Thanh Nguyen, Vivian Santamaria-Garcia, Juan Ferrera, Mingda Li, Marin Soljačić, Svetlana V. Boriskina",
+      year: 2025,
+      journal: "CLEO: Fundamental Science",
+      link: "#",
+      category: "PhD",
+    },    
+    {
+      title: "Dynamically-Tunable Nonreciprocal Epsilon-Near-Zero Photonic Platform Enabled by Current-Biased Dirac Semimetals",
+      authors: "H. Gold, Morgan Blevins, A. Mukherjee, Simo Pajović, Svetlana V. Boriskina",
+      year: 2025,
+      journal: "Optical Materials Express",
+      link: "https://doi.org/10.1364/OME.486103",
+      category: "PhD",
+    },    
   ];
   
   // Sort publications by year (newest to oldest)
