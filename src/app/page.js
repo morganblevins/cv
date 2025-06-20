@@ -67,7 +67,8 @@ export default function Home() {
       />
 
       <p className="text-black mb-4">
-        I'm currently experimentally probing nonlinear photocurrents (the bulk photovoltaic effect) in quantum materials to both better fundamentally understand their 
+        I've built a scanning photocurrent microscope from scratch to characterize photocurrent response in the visible and infrared. 
+        I'm currently probing nonlinear photocurrents (the bulk photovoltaic effect) in quantum materials to both better fundamentally understand their 
         optoelectronic behavior and unlock applications in energy harvesting, sensing, and nonreciprocal transport.
       </p>
 
