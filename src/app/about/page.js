@@ -31,7 +31,7 @@ export default function AboutMe() {
 
             <p>
               Outside of research, I am a distance runner with Tracksmith’s 
-              amateur Boston Hares team. My marathon PR is 3:04 and I'm training now to break
+              amateur Boston Hares team. My marathon PR is 3:01 and I'm training now to break
               3:00.
 
 

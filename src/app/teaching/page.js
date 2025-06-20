@@ -20,7 +20,7 @@ export default function Teaching() {
         {/* Course 1 */}
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-800 mb-2">
-            Photonic Metamaterials (2.719)
+            Photonic Metamaterials (MIT 2.719)
           </h2>
           <hr className="border-t border-gray-300 mb-4" />
           <p className="text-lg text-gray-700 mb-4">
@@ -40,7 +40,7 @@ export default function Teaching() {
         {/* Course 2 */}
         <section>
           <h2 className="text-2xl font-semibold text-gray-800 mb-2">
-            Optics and Photonics (6.6310)
+            Optics and Photonics (MIT 6.6310)
           </h2>
           <hr className="border-t border-gray-300 mb-4" />
           <p className="text-lg text-gray-700 mb-4">

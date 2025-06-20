@@ -31,10 +31,10 @@ export default function Publications() {
     {
       title: "Strategies for equitable remote learning communities in graduate STEM classes",
       authors: "Danielle Freeman, Lina Taenzer, Morgan Blevins, EeShan Chetan Bhatt",
-      year: 2022,
+      year: 2020,
       journal: "Authorea Preprints",
       link: "#",
-      category: "PhD",
+      category: "Masters",
     },
     {
       title: "High Contrast Cleavage Detection",
@@ -110,7 +110,7 @@ export default function Publications() {
     },
     {
       title: "Optoelectronic Response of Nodal Line Semimetal PbTaSe₂",
-      authors: "Morgan G. Blevins, Vivian Santamaria-Garcia, Svetlana V. Boriskina",
+      authors: "Morgan Blevins, Vivian Santamaria-Garcia, Svetlana V. Boriskina",
       year: 2024,
       journal: "MRS Conference",
       link: "#",
@@ -126,7 +126,7 @@ export default function Publications() {
     },    
     {
       title: "Nanophotonic Enhanced Nonlinear Photocurrents in Weyl Semimetal TaIrTe₄",
-      authors: "Morgan G. Blevins, Sachin Vaidya, Thanh Nguyen, Vivian Santamaria-Garcia, Juan Ferrera, Mingda Li, Marin Soljačić, Svetlana V. Boriskina",
+      authors: "Morgan Blevins, Sachin Vaidya, Thanh Nguyen, Vivian Santamaria-Garcia, Juan Ferrera, Mingda Li, Marin Soljačić, Svetlana V. Boriskina",
       year: 2025,
       journal: "CLEO: Fundamental Science",
       link: "#",
