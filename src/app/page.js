@@ -19,10 +19,6 @@ export default function Home() {
               I recieved my Bachelors degree from Harvey Mudd in 2019 and my masters degrees
               from the MIT-WHOI Joint Program in 2021. I started working on my PhD in MIT EECS in 2021.
             </p>
-            <div className="flex gap-6">
-              {/* <a href="#" className="text-black hover:opacity-70">CV</a> */}
-              <a href="/about" className="text-black hover:opacity-70">Contact info</a>
-            </div>
           </div>
           <img 
             src="/Morgan Blevins.jpg" 
@@ -67,9 +63,9 @@ export default function Home() {
       />
 
       <p className="text-black mb-4">
-        I've built a scanning photocurrent microscope from scratch to characterize photocurrent response in the visible and infrared. 
-        I'm currently probing nonlinear photocurrents (the bulk photovoltaic effect) in quantum materials to both better fundamentally understand their 
-        optoelectronic behavior and unlock applications in energy harvesting, sensing, and nonreciprocal transport.
+        I've built a scanning photocurrent microscope from scratch to characterize the local photocurrent response in the visible and infrared. 
+        I'm currently probing nonlinear photocurrents in quantum materials to both better fundamentally understand their 
+        optoelectronic behavior and enable applications in energy harvesting, sensing, and nonreciprocal transport.
       </p>
 
       <img 
