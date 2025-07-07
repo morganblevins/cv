@@ -24,8 +24,8 @@ export default function AboutMe() {
             </p>
 
             <p>
-              I started my PhD work in 2021 and am studying nanophotonics and light-matter interaction,
-               with applications in energy harvesting, photodetection, and non reciprocal transport. 
+              I started my PhD work in 2021 and study nanophotonics and light-matter interaction,
+               with applications in energy harvesting, photodetection, and nonreciprocal transport. 
                I’m supported by Draper labs as a member of their scholars program.
             </p>
 
@@ -61,7 +61,7 @@ export default function AboutMe() {
               </p>
               <p>
               <a
-              href="#"
+              href="https://www.linkedin.com/in/morgan-blevins-451237106/"
               className="text-gray-600 hover:text-gray-900 transition duration-200"
             >
               LinkedIn
@@ -69,7 +69,7 @@ export default function AboutMe() {
               </p>
               <p>
               <a
-              href="#"
+              href="https://scholar.google.com/citations?user=HfUsZNUAAAAJ&hl=en"
               className="text-gray-600 hover:text-gray-900 transition duration-200"
             >
               Google Scholar

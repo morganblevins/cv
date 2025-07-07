@@ -16,8 +16,8 @@ export default function Home() {
               advised by Dr. Svetlana Boriskina. 
             </p>
             <p className="mb-4 text-black">
-              I recieved my Bachelors degree from Harvey Mudd in 2019 and my masters degrees
-              from the MIT-WHOI Joint Program in 2021. I started working on my PhD in MIT EECS in 2021.
+              In my PhD research I've been interested in the light-matter interaction in topological semimetals, working on both theoretical 
+              and experimental projects.
             </p>
           </div>
           <img 
@@ -35,7 +35,7 @@ export default function Home() {
       <h3 className="text-xl font-bold mb-4 text-black">PhD Research Projects</h3>
 
       <p className="text-black mb-4">
-        During my PhD I've been intersted in light-matter interaction in topological materials and I've worked on projects that explore 
+        During my PhD I've been interested in light-matter interaction in topological materials and I've worked on projects that explore 
         nonreciprocal plasmonics and anomalous photocurrents. 
       </p>
 
