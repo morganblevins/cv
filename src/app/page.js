@@ -57,7 +57,7 @@ export default function Home() {
       </p>
 
       <img 
-        src="/DSM_NFRHT.svg" 
+        src="/TOC_Graphic.svg" 
         alt="Illustration of NFRHT switching with bias" 
         className="mx-auto my-6 max-w-lg"
       />
